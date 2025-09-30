@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sam Jhonson
+# Hi there 👋, I'm Sourav Sarkar
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Learning-orange?logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
